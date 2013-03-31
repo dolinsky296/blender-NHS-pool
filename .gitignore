@@ -1,0 +1,20 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Blender generated files #
+######################
+blendcache_*
+blendcache_nhs
+blendcache_nhs/
+cache_fluid/
+cache_fluid
+render
+render/
