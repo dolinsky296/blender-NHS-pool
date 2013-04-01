@@ -26,3 +26,10 @@ Aiden Wolfe: less wide than I am tall... Definitely between four and five feet. 
 
 Measuring TODOs: Come in, measure bulkhead. Or just use Aiden's estimate...
 
+
+
+Good frames to do the render:
+This will change once we have a person moving in the water, but for now, I'd say 221 is good. Or 255 is better.
+
+
+Make sure to do a bake!
