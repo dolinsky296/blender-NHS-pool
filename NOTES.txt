@@ -1,0 +1,28 @@
+Used image at http://www.niskayunaschools.org/district/CommunityEducation/001_23A.JPG --->Walls, banners, architecture
+http://sphotos-g.ak.fbcdn.net/hphotos-ak-prn1/55994_441001169291716_1121268261_o.jpg --->Lanes, divider colors, also shows starting/sensing equipment.
+
+
+Layers:
+    1=Rendered+Domains
+    2=Physics Helpers
+    3=Build templates and aligners
+    4=Etc.
+    
+Pool has 8 lanes, 25 yd length, bulked wall moves 25 meters. (?) 
+        Does this mean:
+            According to Aidan and Aiden===> bulkhead pos 1 = 25 yd, pos 2 = 25 m
+     
+             
+            
+         
+Depth: 4 feet to 13 feet. 
+
+
+Aiden Wolfe: Bulkhead is 25 yards from the start but can move to 25 meters from the start. The difference is only three feet or so. The bulkhead could move more than that but never does. So the first line you wrote is correct
+
+Bulkhead width:
+Aiden Wolfe: less wide than I am tall... Definitely between four and five feet. I dont know anything more exact than that though. What's the render for?
+
+
+Measuring TODOs: Come in, measure bulkhead. Or just use Aiden's estimate...
+
